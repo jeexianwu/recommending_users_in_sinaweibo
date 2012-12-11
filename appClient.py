@@ -162,7 +162,7 @@ if __name__ == '__main__':
     #AppClient.collectPublicTags()
 
     #give the userid,of course,you can give yourself id to getting recommmendation users; in partice,this userID should be the user using this app
-    userID = '1823788613'#AppClient.getCurrentUid()
+    userID = '1791758553'#AppClient.getCurrentUid()
     recommUsersDict = AppClient.getRecommendedUsers(userID)
     #print recommUsersDict
     for uid,sname in recommUsersDict.items():
