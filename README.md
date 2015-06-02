@@ -19,9 +19,8 @@ Note:
 
 3.any inquery or bugs you find,please let me know, prise highly for report bugs at:
   
-  https://github.com/michaelliao/recommending_users_in_sinaweibo
+  https://github.com/jeexianwu/recommending_users_in_sinaweibo/issues
   
   or sent email to : 
   
-  jeexianwu@gmail.com or jxw_shuxuexi@126.com
-
+  jeexianwu@gmail.com
